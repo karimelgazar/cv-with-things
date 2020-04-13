@@ -1,7 +1,7 @@
 <p align="center"> 
-<img src="islamic.png" style="float: left" width=15%/>
-<img src="b0.png" style="float: center" width=70%/>
-<img src="islamic.png" style="float: right" width=15%/>
+<img src="images/islamic.png" style="float: left" width=15%/>
+<img src="images/b0.png" style="float: center" width=70%/>
+<img src="images/islamic.png" style="float: right" width=15%/>
 </p>
 
 <br>
@@ -83,4 +83,4 @@
     pip install tensorflow-gpu
 
 
-![](hamd.png)
+![](images/hamd.png)
