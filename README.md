@@ -12,11 +12,15 @@
 اتبع تلك التعليمات اثناء مشاهدة 
 [فيديو الشرح](https://www.youtube.com/watch?v=sjc6QkKNyGI&list=PLO1D3YWS7ep1u30a-rPHnTBMn7duXn9lI) 
 
+---
+الفهرس
+
 [**تجهيز البيئة الافتراضية**](#1-تجهيز-البيئة-الافتراضية) &nbsp;**|**&nbsp;
 [**dlib**](#2-dlib) &nbsp;**|**&nbsp;
 [**face-recognition**](#3-face-recognition) &nbsp;**|**&nbsp;
 [**cvlib**](#4-cvlib)
 
+---
 
 # 1. تجهيز البيئة الافتراضية
 
