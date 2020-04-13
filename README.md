@@ -28,7 +28,7 @@
 
 إذا كان `إصدار بايثون الخاص بك ليس 3.6` ، فاتبع هذا القسم وإلا تابع إلى القسم التالي
 
-## وافتحه `anaconda prompt` ابحث عن هذه البرنامج  
+## وافتحه `anaconda prompt` ابحث عن هذا البرنامج  
 (بأي اسم تريده `YOUR_ENVIRONMENT_NAME` إنشاء بيئة افتراضية (استبدل <br>
 
     conda create -n YOUR_ENVIRONMENT_NAME python=3.6
