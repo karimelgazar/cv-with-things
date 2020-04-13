@@ -1,6 +1,6 @@
 <p align="center"> 
 <img src="images/islamic.png" style="float: left" width=15%/>
-<img src="images/b0.png" style="float: center" width=60%/>
+<img src="images/b0.png" style="float: center" width=50%/>
 <img src="images/islamic.png" style="float: right" width=15%/>
 </p>
 
